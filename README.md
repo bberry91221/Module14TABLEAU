@@ -29,6 +29,7 @@ In order to normalize the data and make more accurate estimates across the named
 A.	**Breakdown the population to locate the most cost-effective placement of the workshop to distribute and maintain bikes.** By looking at the downtown area and the bike trails available, the below map shows several large hotels plus the State Capital. 
 ![SidebySide_downtown_Des_Moines.PNG](Resources/SidebySide_downtown_Des_Moines.PNG)
 Another component to consider is the fact that most male and female riders appear to really stick to a 20-25 minute ride. The evidence can be seen in the bell curves seen for males (orange line) and females (blue) that both experience a dramatic drop right around the 20-minute mark.
+
 ![EstimatebyGender.PNG](Resources/ByGenderEstimate.PNG)
 
 Also, as seen in NYC, the highest weekend use is on Saturdays around lunchtime!
@@ -41,6 +42,7 @@ B.	**Compile a schedule per bike for routine maintenance, cleaning and repairs t
 
 C.	**Estimate of the population of gender of the bike riders in order to provide an appropriate model bike:** Roughly one-third of the NYC riders were female (N=34,151; blue line on graph below) and two-thirds were male (N=66,547; orange line on the graph below). NOTE: the “Unknown” (N=7,389; red line on the graph below) gender type was not included in the calculations in the above table.
 ![Estimate_by_Gender.PNG](Resources/ByGenderEstimate.PNG)
+
 Another helpful chart to look at is to see what kind of rider (Walk-in Customer vs. Subscriber). In the below chart, we can see that there are more males than females as Subscribers. Both male and female Subscribers appear to have chosen Thursday as a day to ride!
 ![Customer_vs_Subscriber.PNG](Resources/Customer_vs_Subscriber.PNG)
 
@@ -55,17 +57,23 @@ B.	A schedule would have to be drawn up for the repair technicians giving them t
 C.	From the provided charts above, there is a large difference in numbers between male and female riders. Not only do the numbers tell there are less female riders, but also less interest in becoming a Subscriber by females.
 
 ## DISCUSSION: WHAT TO PERFORM TO GET THIS STARTUP “Up and Running”
-A.	A total of 140 bikes would need to be purchased together with all repair parts, lube, and tires.
-B.	Extra staff (repair technicians) would need to work on Saturday and Sunday mornings since these two days had the least ridership and most bikes could have been returned and are waiting in the shop. .
-C.	Find the best centrally located spot in relation to the bike trails present in the city as well as other attractions that have secure bike parking. Also take into account how far away city parks are for when a city event could occur and riders would prefer bikes rather than trying to park a car!
+A. A total of 140 bikes would need to be purchased together with all repair parts, lube, and tires.
+
+B. Extra staff (repair technicians) would need to work on Saturday and Sunday mornings since these two days had the least ridership and most bikes could have been returned and are waiting in the shop. 
+
+C. Find the best centrally located spot in relation to the bike trails present in the city as well as other attractions that have secure bike parking. Also take into account how far away city parks are for when a city event could occur and riders would prefer bikes rather than trying to park a car!
 
 ## WHAT DOES RESEARCH SHOW ABOUT THE SUCCESS OF BIKE SHARING?
 >“An annual membership to **Citi Bike** is $169 a year or $14.95 a month, while a monthly pass to Metro Ride Share is $20. If you don't want to drive.” From April 4, 2018 [Policy_Genius](https://www.policygenius.com/news/)
+
 >“The global bike sharing market was valued at $3.43 billion in 2019, and is projected to reach $6.98 billion by 2027.” From [Allied_Market_Research](https://www.alliedmarketresearch.com/bike-sharing-market-A11309)
->“Over the past decade, bike share has been one of the great U.S. transportation success stories. Starting with Tulsa, Oklahoma's program that launched in 2007, more than 60 U.S. cities now have bike-share systems, according to annual bike-share data from the National Association of City Transportation Officials (NACTO).“ from Dec. 16, 2019 [Last_Decade_Says_BikeSharing_Successful]( https://archive.curbed.com/2019/12/16/20864145/bike-share-citi-bike-jump-uber)
+
+>“Over the past decade, bike share has been one of the great U.S. transportation success stories. Starting with Tulsa, Oklahoma's program that launched in 2007, more than 60 U.S. cities now have bike-share systems, according to annual bike-share data from the National Association of City Transportation Officials (NACTO).“ from Dec. 16, 2019 [Last_Decade_Proves_BikeSharing_Successful]( https://archive.curbed.com/2019/12/16/20864145/bike-share-citi-bike-jump-uber)
 
 ## FUTURE EYE ON THE PIECE OF “PIE”
 **Future plans:** collect data similar to the NYC CitiBike Program obtained to aid in making other offerings to riders in the future.
+
 **Ridership Programs Coalition:** reach out to other bikesharing organizations to see if partnerships can be developed.
+
 **Get on newsletter lists:** Much like the National Association of City Transportation Officials (NACTO), good data can be obtained from this organization and others.
 
