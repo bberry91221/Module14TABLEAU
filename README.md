@@ -23,7 +23,7 @@ C. Find the gender of the riders and likewise provide the style of bike each gen
 Using the data collected by CitiBike and applying the population proportion between NYC and Des Moines, we were able to compile estimates of how many bikes on the outset we would need to provide as well.
 
 ## Results
-In order to normalize the data and make more accurate estimates across the named goals above, the following information was used to compile adult (18 to 65 years old) population proportions between New York City’s [NYC](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,US/POP010220) and Des Moines’ [Des Moines](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,US/POP010220) ridership populations.
+In order to normalize the data and make more accurate estimates across the named goals above, the following information was used to compile adult (18 to 65 years old) population proportions between New York City’s [NYC](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,US/POP010220) and Des Moines’ [Des Moines](https://www.census.gov/quickfacts/fact/table/desmoinescityiowa,US/PST045221) ridership populations.
 ![Gender_by_population_per_city.PNG](Resources/Gender_by_population_per_city.PNG)	 
 
 A.	**Breakdown the population to locate the most cost-effective placement of the workshop to distribute and maintain bikes.** By looking at the downtown area and the bike trails available, the below map shows several large hotels plus the State Capital. 
