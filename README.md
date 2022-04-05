@@ -29,15 +29,15 @@ In order to normalize the data and make more accurate estimates across the named
 A.	**Breakdown the population to locate the most cost-effective placement of the workshop to distribute and maintain bikes.** By looking at the downtown area and the bike trails available, the below map shows several large hotels plus the State Capital. 
 ![SidebySide_downtown_Des_Moines.PNG](Resources/SidebySide_downtown_Des_Moines.PNG)
 Another component to consider is the fact that most male and female riders appear to really stick to a 20-25 minute ride. The evidence can be seen in the bell curves seen for males (orange line) and females (blue) that both experience a dramatic drop right around the 20-minute mark.
-![Estimate_by_Gender.PNG](Estimate_by_Gender.PNG)
+![EstimatebyGender.PNG](EstimatebyGender.PNG)
 
 Also, as seen in NYC, the highest weekend use is on Saturdays around lunchtime!
-![Trips_by_Gender_(Weekday_per_Hour).PNG](Trips_by_Gender_(Weekday_per_Hour).PNG)
+![Trips_by_Gender_Weekday_per_Hour.PNG](Trips_by_Gender_(Weekday_per_Hour).PNG)
 
 Can you see this as a perfect day?…rent a bike next to your hotel, ride to a restaurant or pick up lunch and go to a park nearby, return the bike and continue with your relaxing visit!
 
 B.	**Compile a schedule per bike for routine maintenance, cleaning and repairs to occur:** From the CitiBike data, we can see in the table below that the best times to repair male and female bikes are Saturday and Sunday mornings. Female bikes also are not checked out after 7pm Wednesday evenings and male bikes are not checked out after 8pm.
-![Trips_by_Gender_(Weekday_per_Hour).PNG](Trips_by_Gender_(Weekday_per_Hour).PNG)
+![Trips_by_Gender_Weekday_per_Hour.PNG](Trips_by_Gender_(Weekday_per_Hour).PNG)
 
 C.	**Estimate of the population of gender of the bike riders in order to provide an appropriate model bike:** Roughly one-third of the NYC riders were female (N=34,151; blue line on graph below) and two-thirds were male (N=66,547; orange line on the graph below). NOTE: the “Unknown” (N=7,389; red line on the graph below) gender type was not included in the calculations in the above table.
 ![Estimate_by_Gender.PNG](Resources/Estimate_by_Gender.PNG)
