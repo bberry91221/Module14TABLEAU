@@ -41,6 +41,7 @@ B.	**Compile a schedule per bike for routine maintenance, cleaning and repairs t
 ![Trips_by_Gender_Weekday_per_Hour.PNG](Resources/TripsXGender_WkdayperHour.PNG)
 
 C.	**Estimate of the population of gender of the bike riders in order to provide an appropriate model bike:** Roughly one-third of the NYC riders were female (N=34,151; blue line on graph below) and two-thirds were male (N=66,547; orange line on the graph below). NOTE: the “Unknown” (N=7,389; red line on the graph below) gender type was not included in the calculations in the above table.
+
 ![Estimate_by_Gender.PNG](Resources/ByGenderEstimate.PNG)
 
 Another helpful chart to look at is to see what kind of rider (Walk-in Customer vs. Subscriber). In the below chart, we can see that there are more males than females as Subscribers. Both male and female Subscribers appear to have chosen Thursday as a day to ride!
