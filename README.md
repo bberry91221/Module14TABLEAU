@@ -78,3 +78,6 @@ C. Find the best centrally located spot in relation to the bike trails present i
 
 **Get on newsletter lists:** Much like the National Association of City Transportation Officials (NACTO), good data can be obtained from this organization and others.
 
+[link to dashboard](https://public.tableau.com/app/profile/beth.berry/viz/Module_14_v2/Story1?publish=yes)
+
+
